@@ -1,0 +1,11 @@
+wich servic cicd --code commit -- 
+
+saas -wr
+3 -wr
+cloud watch - Rt
+redshift -WR
+code pip
+efs -WR
+vpc -RT
+code deploy WR
+EFS - RT --- whch aws storag

@@ -1,0 +1,15 @@
+data store chekc space
+summer action monitor data store - Check space if avalable more than 250Gb and should be available 21% avaial
+
+lsbl, df -h, vgs take screen shot
+
+after adding add,
+
+echo /scaci/  check online, if not seeing 
+exrmf-vx-1-3.serverpod.net 
+
+Login to windows shared jumpnet   JNSA-VA-2.wh.intermedia.net
+Open Virtual Machine Manager Console
+Connect to vmm-dev-va-2.root.devdomain.local:8100
+Use root creds as root\username
+Select Clouds in VMM and use search to find VM
